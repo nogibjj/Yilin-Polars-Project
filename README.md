@@ -6,7 +6,7 @@ This project is a basic demonstration of using the Polars library in Python to c
 
 Ensure you have the following installed:
 - Python (3.x recommended)
-- Polars (`pip install Polars`)
+- Polars (`pip install polars`)
 
 ## Files
 
