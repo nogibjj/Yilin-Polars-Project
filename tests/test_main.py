@@ -1,7 +1,7 @@
 import unittest
 import pandas as pd
-from Pandas_package import main
-from Pandas_package.main import load_data, descriptive_statistics
+from Polars_package import main
+from Polars_package.main import load_data, descriptive_statistics
 
 class TestMain(unittest.TestCase):
 
