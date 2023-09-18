@@ -1,16 +1,16 @@
-# Pandas Descriptive Statistics Script
+# Polars Descriptive Statistics Script
 
-This project is a basic demonstration of using the Pandas library in Python to compute descriptive statistics from a CSV data sample. The script loads the data, computes the statistics, and prints the results to the console.
+This project is a basic demonstration of using the Polars library in Python to compute descriptive statistics from a CSV data sample. The script loads the data, computes the statistics, and prints the results to the console.
 
 ## Prerequisites
 
 Ensure you have the following installed:
 - Python (3.x recommended)
-- Pandas (`pip install pandas`)
+- Polars (`pip install Polars`)
 
 ## Files
 
-1. **Pandas_package/main.py**:
+1. * Polars_package/main.py**:
    - Contains the primary script for loading data and computing descriptive statistics.
    
 2. **tests/test_main.py**:
@@ -25,7 +25,7 @@ Ensure you have the following installed:
 2. Navigate to the directory containing the files.
 3. To view the descriptive statistics, run:
 ```bash
-python Pandas_package/main.py
+python Polars_package/main.py
 ```
 4. To run the unit tests, run:
 ```bash
