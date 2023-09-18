@@ -1,4 +1,4 @@
-import pandas as pd
+import polars as pd
 import matplotlib.pyplot as plt
 
 def load_data(file_path):
